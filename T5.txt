@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    	<title> What’s needed to advance climate-resilient infrastructure? </title>
+    	<style>
+        	html, body { height: 100%; margin: 0; }
+		body { font-family: Arial, sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
+		header { height: 60px; background: #1F456E; color: white; text-align: left; padding: 30px; }
+		footer { background: #1F456E; color: white; text-align: center; padding: 15px; }
+		.container { flex: 1; display: flex; }
+		.side { width: 200px; background: #dbd9d0; padding: 20px; }
+		.main { flex: 1; padding: 20px; }
+		.side a { display: block; margin: 5px 0; text-decoration: none; color: #281E5D; }
+		.side a:hover { color: #2832C2; }
+		
+		h2 { font-size: 32px; }
+
+    	</style>
+</head>
+<body>
+
+<header>
+    	<h1> </h1>
+</header>
+
+<div class="container">
+    	<div class="side">
+        	<h3> Table of Contents </h3>
+		<a href="index.html"> Home </a> <br>
+		<a href="T1.html"> 1. How climate change impacts infrastructure? </a>
+		<a href="T2.html"> 2. Infrastructure and environmental justice </a>
+		<a href="T3.html"> 3. The elements of climate-resilient infrastructure </a>
+		<a href="T4.html"> 4. Examples of effective climate-resilient infrastructure </a>
+		<a href="T5.html"> 5. What’s needed to advance climate-resilient infrastructure? </a> <br>
+		<a href="ref.html"> References </a>
+    	</div>
+
+    	<div class="main">
+        	<h2> What’s needed to advance climate-resilient infrastructure? </h2>
+		<p> Advancing climate-resilient infrastructure requires strong policies and regulations that mandate resilience and restrict development in high-risk areas. It also depends on adaptive, flexible designs using durable and low-carbon materials, combined with nature-based solutions for natural protection. Investment frameworks, including grants and incentives, must support such projects. Additionally, effective governance, stakeholder collaboration, and continuous monitoring are vital to adapt over time. Finally, integrated early warning systems help communities prepare for and respond to climate hazards, reducing damage and saving lives.
+		</p>
+        			
+    	</div>
+</div>
+
+<footer>
+    	Naila Mae Hussein | BSCE-2B
+</footer>
+
+</body>
+</html>

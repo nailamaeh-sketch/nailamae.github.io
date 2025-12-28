@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    	<title> Infrastructure and environmental justice </title>
+    	<style>
+        	html, body { height: 100%; margin: 0; }
+		body { font-family: Arial, sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
+		header { height: 60px; background: #1F456E; color: white; text-align: left; padding: 30px; }
+		footer { background: #1F456E; color: white; text-align: center; padding: 15px; }
+		.container { flex: 1; display: flex; }
+		.side { width: 200px; background: #dbd9d0; padding: 20px; }
+		.main { flex: 1; padding: 20px; }
+		.side a { display: block; margin: 5px 0; text-decoration: none; color: #281E5D; }
+		.side a:hover { color: #2832C2; }
+		
+		h2 { font-size: 32px; }
+    	</style>
+</head>
+<body>
+
+<header>
+    	<h1> </h1>
+</header>
+
+<div class="container">
+    	<div class="side">
+        	<h3> Table of Contents </h3>
+		<a href="index.html"> Home </a> <br>
+		<a href="T1.html"> 1. How climate change impacts infrastructure? </a>
+		<a href="T2.html"> 2. Infrastructure and environmental justice </a>
+		<a href="T3.html"> 3. The elements of climate-resilient infrastructure </a>
+		<a href="T4.html"> 4. Examples of effective climate-resilient infrastructure </a>
+		<a href="T5.html"> 5. What’s needed to advance climate-resilient infrastructure? </a> <br>
+		<a href="ref.html"> References </a>
+    	</div>
+
+    	<div class="main">
+        	<h2> Infrastructure and environmental justice </h2>
+        	<p> Infrastructure and environmental justice ensure that vulnerable communities fairly receive benefits like clean water and green spaces while not bearing disproportionate environmental harms. It focuses on inclusive decision-making and correcting past inequalities caused by discriminatory policies. Equitable infrastructure supports healthier, safer, and more resilient communities for all. <br>
+		</p>
+
+    	</div>
+</div>
+
+<footer>
+    	Naila Mae Hussein | BSCE-2B
+</footer>
+
+</body>
+</html>

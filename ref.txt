@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    	<title> References </title>
+    	<style>
+        	html, body { height: 100%; margin: 0; }
+		body { font-family: Arial, sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
+		header { height: 60px; background: #1F456E; color: white; text-align: left; padding: 30px; }
+		footer { background: #1F456E; color: white; text-align: center; padding: 15px; }
+		.container { flex: 1; display: flex; }
+		.side { width: 200px; background: #dbd9d0; padding: 20px; }
+		.main { flex: 1; padding: 20px; }
+		.side a { display: block; margin: 5px 0; text-decoration: none; color: #281E5D; }
+		.side a:hover { color: #2832C2; }
+		
+		h2 { font-size: 32px; }
+
+    	</style>
+</head>
+<body>
+
+<header>
+    	<h1> </h1>
+</header>
+
+<div class="container">
+    	<div class="side">
+        	<h3> Table of Contents </h3>
+		<a href="index.html"> Home </a> <br>
+		<a href="T1.html"> 1. How climate change impacts infrastructure? </a>
+		<a href="T2.html"> 2. Infrastructure and environmental justice </a>
+		<a href="T3.html"> 3. The elements of climate-resilient infrastructure </a>
+		<a href="T4.html"> 4. Examples of effective climate-resilient infrastructure </a>
+		<a href="T5.html"> 5. What’s needed to advance climate-resilient infrastructure? </a> <br>
+		<a href="ref.html"> References </a>
+    	</div>
+
+    	<div class="main">
+
+        	<h2> References </h2>
+		<p> Cho, R. (2024, July 22). The case for Climate-Resilient infrastructure. State of the Planet. <br> https://news.climate.columbia.edu/2024/07/22/the-case-for-climate-resilient-infrastructure/
+		<p>
+		<p> Directory, S. (2025, April 9). What are the key components of Climate-Resilient Infrastructure? → Question. Climate → Sustainability Directory. <br> https://climate.sustainability-directory.com/question/what-are-the-key-components-of-climate-resilient-infrastructure/
+		<p>
+		<p> Hendricks, M. D. (2022). Leveraging critical infrastructure within an environmental justice framework for public health prevention. American Journal of Public Health, 112(7), 972–974. <br> https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2022.306883
+		<p>
+        			
+    	</div>
+</div>
+
+<footer>
+    	Naila Mae Hussein | BSCE-2B
+</footer>
+
+</body>
+</html>

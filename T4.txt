@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    	<title> Examples of effective climate-resilient infrastructure </title>
+    	<style>
+        	html, body { height: 100%; margin: 0; }
+		body { font-family: Arial, sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
+		header { height: 60px; background: #1F456E; color: white; text-align: left; padding: 30px; }
+		footer { background: #1F456E; color: white; text-align: center; padding: 15px; }
+		.container { flex: 1; display: flex; }
+		.side { width: 200px; background: #dbd9d0; padding: 20px; }
+		.main { flex: 1; padding: 20px; }
+		.side a { display: block; margin: 5px 0; text-decoration: none; color: #281E5D; }
+		.side a:hover { color: #2832C2; }
+		
+		h2 { font-size: 32px; }
+    	</style>
+</head>
+<body>
+
+<header>
+    	<h1> </h1>
+</header>
+
+<div class="container">
+    	<div class="side">
+        	<h3> Table of Contents </h3>
+		<a href="index.html"> Home </a> <br>
+		<a href="T1.html"> 1. How climate change impacts infrastructure? </a>
+		<a href="T2.html"> 2. Infrastructure and environmental justice </a>
+		<a href="T3.html"> 3. The elements of climate-resilient infrastructure </a>
+		<a href="T4.html"> 4. Examples of effective climate-resilient infrastructure </a>
+		<a href="T5.html"> 5. What’s needed to advance climate-resilient infrastructure? </a> <br>
+		<a href="ref.html"> References </a>
+    	</div>
+
+    	<div class="main">
+        	<h2> Examples of effective climate-resilient infrastructure </h2>
+        	<p> <strong>NETHERLANDS</strong> - Room for the River: Instead of building higher dykes, the project creates space for rivers to flood safely by moving dykes inland, deepening riverbeds, and creating flood bypasses, reducing flood risk naturally. <br>
+		</p>
+		<p> <strong> SINGAPORE </strong> - Cooling Program: The city uses rooftop gardens, street trees, green walls, and light-colored roofs to reduce heat and improve ventilation, helping to combat rapid urban warming. <br>
+		</p>
+		<p> <strong> BADAJOZ, SPAIN </strong> - Heat and Drought Prep: A school uses green roofs, shaded facades, rainwater harvesting, and automatic ventilation to lower indoor temperatures and conserve water amid rising heat. <br>
+		</p>
+		<p> <strong> CALIFORNIA </strong> - Wildfire Resistance: The region enforces building codes requiring wildfire-resistant materials, limits development in fire-prone areas, and maintains defensible space around homes to reduce fire risk. <br>
+		</p>
+		<p> <strong> DAVENPORT, IOWA – </strong> - The city has designed riverfront parks and infrastructure that can safely flood, allowing the Mississippi River room to expand without damaging critical infrastructure. <br>
+		</p>
+    	</div>
+</div>
+
+<footer>
+    	Naila Mae Hussein | BSCE-2B
+</footer>
+
+</body>
+</html>
